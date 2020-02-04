@@ -18,3 +18,7 @@
 	path = accounting_reports
 	url = git@github.com:hstabbal/accounting_reports.git
 	branch = sec_currency
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 12.0
